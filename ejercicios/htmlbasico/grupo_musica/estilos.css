@@ -1,0 +1,27 @@
+Body  { Font-family;verdana ;
+background: #ffffff ;
+}
+H1 { color:#333; 
+Font-size:20px;
+}
+H2 { color:#666; 
+Font-size:16px
+}
+P, li, td { color:#000; 
+Font-size:12px
+}
+Th { color:White; 
+Font-size:12px;
+}
+Table, td, th {
+	border:1px solid black;
+	}
+Table { 
+border-collapse:collapse;
+}
+Td, th {
+	padding:10px
+	}
+Thead {
+	background:#666
+	}
